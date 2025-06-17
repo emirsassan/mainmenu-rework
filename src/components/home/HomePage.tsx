@@ -148,7 +148,7 @@ export const HomePage = () => {
         {/* Version Info */}
         <div className="text-right">
           <p className="text-white/80 text-sm">
-            Powered by{' '}
+            Brought you by{' '}
             <span className="underline text-cyan-400 hover:text-cyan-300 cursor-pointer transition-colors">
                   lunarclient.top
                 </span>
